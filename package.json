@@ -1,0 +1,13 @@
+{
+  "name": "host-to-dword",
+  "version": "1.0.0",
+  "description": "Convert hostnames or IP addresses to dword notation",
+  "main": "index.js",
+  "bin": "cli.js",
+  "repository": "izeau/host-to-dword",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Jean Dupouy <jean.dupouy@rednet.io>",
+  "license": "MIT"
+}
